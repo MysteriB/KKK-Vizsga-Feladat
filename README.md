@@ -9,7 +9,7 @@ Elő készület határideje: 2021.12.19
 
     Hálózat elméletének megtervezése ✔ 
     Prototípus kialakítása PT-ben ❓
-    Topológía kialakítása, elsődleges címzések kialakítása ❌
+    Topológía kialakítása, elsődleges címzések kialakítása ❓
 
 Aktuális feladat határideje: 2022.02.27
   Addigra teljesítendő feladatok:
