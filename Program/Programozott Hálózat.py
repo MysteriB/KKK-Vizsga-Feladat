@@ -12,6 +12,8 @@ host = "192.168.1.12"
 port = 22
 command = "ls"
 i = 0
+#copy running-config ftp
+#localip
 #ssh = paramiko.SSHClient()
 #ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 #ssh.connect(host, port, UN, PW)
