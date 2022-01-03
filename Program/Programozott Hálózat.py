@@ -10,7 +10,7 @@ PW = input("Password : ")
 
 host = "192.168.1.12"
 port = 22
-command = "ls"
+command = "copy ftp startup"
 
 ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
