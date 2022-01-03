@@ -54,12 +54,13 @@ Communication
 	 192.168.0.3
 	HSRP:
 	 192.168.0.1
-	VPN - Tunnel - SSH - ACL
 
 Raktár
 	192.168.5.0/28
 	Router:
 	 192.168.5.1
+	Terminal:
+	 192.168.5.5
 	Switch:
 	 192.168.5.10
 	Wifi:
@@ -90,4 +91,15 @@ Entertaintment Center
    192.168.168.254
   DHCP:
    192.168.168.0-100
-	 
+
+ISP:
+	Router A:
+	10.0.0.1/30 10.0.0.2 (ISP)
+	Router B:
+	10.0.0.5/30 10.0.0.6 (ISP)
+	Server:
+	10.0.0.9/30 10.0.0.10 (ISP)
+	Storage:
+	10.0.0.13/30 10.0.0.14 (ISP)
+	Entertaintment:
+	10.0.0.17/30 10.0.0.18 (ISP)
