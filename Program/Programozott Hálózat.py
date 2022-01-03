@@ -11,10 +11,16 @@ PW = input("Password : ")
 host = "192.168.1.12"
 port = 22
 command = "ls"
-
-ssh = paramiko.SSHClient()
-ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect(host, port, UN, PW)
-stdin, stdout, stderr = ssh.exec_command(command)
-lines = stdout.readlines()
-print(lines)
+i = 0
+#ssh = paramiko.SSHClient()
+#ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+#ssh.connect(host, port, UN, PW)
+while i < 1:
+    command = input("command : ")
+    if command == "exit":
+        i = 1
+    else:
+        #stdin, stdout, stderr = ssh.exec_command(command)
+        #lines = stdout.readlines()
+        #print(lines)
+        print(command)
