@@ -8,7 +8,7 @@ Elő készület határideje: 2021.12.19
   Elérni kivánt feladatok:
 
     Hálózat elméletének megtervezése ✔ 
-    Prototípus kialakítása PT-ben ❓
+    Prototípus kialakítása PT-ben ✔
     Topológía kialakítása, elsődleges címzések kialakítása ❓
 
 Aktuális feladat határideje: 2022.02.27
