@@ -1,0 +1,93 @@
+Szerver:
+	192.168.100.0/28
+	Linux Ver:
+	 IP 192.168.100.50
+	Windows Ser:
+	 IP 192.168.100.100
+	Switch:
+	 vlan 100:
+	  192.168.100.10
+	Router
+	 192.168.100.1
+
+vlan 101:
+	192.168.1.0/28
+	Switch:
+	 192.168.1.1
+	Admin PC:
+	 192.168.1.5
+
+vlan 102:
+	192.168.2.0/28
+	Switch:
+	 192.168.2.1
+	DHCP: 
+	 192.168.2.10-50
+
+vlan 103:
+	192.168.3.0/28
+	Switch:
+	 192.168.3.1
+	DHCP: 
+	 192.168.3.10-50
+
+vlan 104:
+	192.168.104.0/28
+	Switch:
+	 192.168.104.100
+	ASA:
+	 192.168.104.104
+	Wifi Ruter:
+	 192.168.104.254
+  WIFI:
+  192.168.254.0/28
+  Router:
+   192.168.254.254
+   DHCP: 
+    192.168.254.1-10
+
+Communication
+	192.168.0.0/24
+	RouterA:
+	 192.168.0.2
+	RouterB:
+	 192.168.0.3
+	HSRP:
+	 192.168.0.1
+	VPN - Tunnel - SSH - ACL
+
+Raktár
+	192.168.5.0/28
+	Router:
+	 192.168.5.1
+	Switch:
+	 192.168.5.10
+	Wifi:
+	 192.168.5.100
+  WIFI:
+   192.168.50.0/28
+   Router:
+    192.168.50.254
+   DHCP:
+    192.168.50.10-50
+
+Entertaintment Center
+	192.168.200.0/28
+	2022:fb8:acad:feed::/32
+	Router:
+	 192.168.200.200
+	 2022:fb8:acad:feed::feed
+	DHCP:
+	2022:fb8:acad:feed::0-9999
+	Switch:
+	 2022:fb8:acad:feed::acad
+	Wifi:
+	 2022:fb8:acad:feed::face
+
+  WIFI:
+  192.168.168.0/28
+  Router:
+   192.168.168.254
+  DHCP:
+   192.168.168.0-100
+	 
