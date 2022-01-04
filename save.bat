@@ -4,7 +4,7 @@ git.exe checkout main
 git.exe pull
 git.exe add -A
 git.exe commit -m "%com%"
-git.exe push
+git.exe push --set-upstream origin main
 echo Done
 pause
 exit
