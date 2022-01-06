@@ -16,7 +16,7 @@ Server(config-if)#ppp authentication chap //[callin] ???
 
 Server(config)#ip local pool KESZLET_NEV kezdő_ip_cím végső_ip_cím
 
-Server(config)#interface GigabitEthernet 0/1
+Server(config)#interface int azon
 Server(config-if)#pppoe enable group global
 
 /*
