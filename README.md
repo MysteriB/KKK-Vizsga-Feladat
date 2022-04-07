@@ -16,18 +16,18 @@ Aktuális feladat határideje: 2022.02.27
   
     Szerver gépek virtuális fellállítása, Weblap elkészítés ❌
     Pocket Tracerben topológia, konfig megvalósítása ✔
-    Programozott hálózat elkészítése ❓
+    Programozott hálózat elkészítése ✔
     
-   Bugs: DHCPv6 not working, Asa acl not working, documentation is missing some info.
+   Known Bugs: Entertaintment Switch not pingable.
    
 Utómunkák és javítások határideje: 2022.04.24
   Feladataink:
   
     PT, Szerverek, Programozott hálózat egybe vonása, tesztelése (PT-ben) ✔
-    Hálózat megvalósitása fizikai eszközökön, lépések dokumentálása, felvétel készítés ❌
-    Müködő hálózat esetén PPT-t elkészíteni, projectet örömmel leadni. ❌
+    Hálózat megvalósitása fizikai eszközökön, lépések dokumentálása, felvétel készítés ❓
+    Müködő hálózat esetén PPT-t elkészíteni, projectet örömmel leadni. ❓
     Hibás hálózat esetén, hibák keresése, megoldása, PT modosítása a javítás alapján ❓
-    Kis film összerakása, vágása A project részletei átnézése, majd végül leadása ❌
+    Kis film összerakása, vágása A project részletei átnézése, majd végül leadása ❓
 
 ##########################################################################################################################################################################
 
