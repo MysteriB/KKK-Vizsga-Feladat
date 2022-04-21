@@ -14,7 +14,7 @@ Elő készület határideje: 2021.12.19
 Aktuális feladat határideje: 2022.02.27
   Addigra teljesítendő feladatok:
   
-    Szerver gépek virtuális fellállítása, Weblap elkészítés ❌
+    Szerver gépek virtuális fellállítása, Weblap elkészítés ✔
     Pocket Tracerben topológia, konfig megvalósítása ✔
     Programozott hálózat elkészítése ✔
     
@@ -26,11 +26,12 @@ Utómunkák és javítások határideje: 2022.04.24
     PT, Szerverek, Programozott hálózat egybe vonása, tesztelése (PT-ben) ✔
     Hálózat megvalósitása fizikai eszközökön, lépések dokumentálása, felvétel készítés ❓
     Müködő hálózat esetén PPT-t elkészíteni, projectet örömmel leadni. ❓
-    Hibás hálózat esetén, hibák keresése, megoldása, PT modosítása a javítás alapján ❓
+    Hibás hálózat esetén, hibák keresése, megoldása, PT modosítása a javítás alapján ✔
     Kis film összerakása, vágása A project részletei átnézése, majd végül leadása ❓
 
 ##########################################################################################################################################################################
-
+Szerver gépek:
+https://diakoffice-my.sharepoint.com/:u:/g/personal/edu_ydtp_9176_diakoffice_onmicrosoft_com/EYG9G1PSdEpJhMDNGDsAJVUB6H_mOzI9eFFSEAwxPfXF7Q?e=BXGFVV
 
 Referencia:
   https://infotanarium.hu/archivum/8
