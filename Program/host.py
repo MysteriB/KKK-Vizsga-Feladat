@@ -1,1 +1,0 @@
-network_devices = ['192.168.1.15', 'x.x.x.5']
