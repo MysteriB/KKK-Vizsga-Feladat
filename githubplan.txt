@@ -1,0 +1,24 @@
+Plans for Github Repo Clean up.
+
+Main banch containing:
+  -Working PT file
+  -Documentation about the PT file
+  -Working Python program for that PT file
+  -Servers (link) for the Project
+  -Document containing troubleshooting
+  -Video about the server
+  -PKT file about the project
+  -Other related files for the finished project
+
+Alpha branch containing:
+  -First PT file
+  -First files about the project
+  -Probably everything related for the starting state of the Project
+
+Service branch containing:
+  -The PT file containing the real devices
+  -Documents about the changes needed for the real device (The main has a footnote about them)
+  -Documentation about the PT file
+  -Tweked program for the real file (Containing Turned off features and other enabled. Properly commented)
+  -Assets for the video, website, other stuff we used.
+  -Containing this note
