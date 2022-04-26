@@ -42,6 +42,13 @@ img.v2 {
     background: transparent;
     max-width: 100%;
 }
+img.v3 {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(100, 100, 100, 1);
+    border-radius: 4px;
+    max-width: 35%;
+}
 
 img.border {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
